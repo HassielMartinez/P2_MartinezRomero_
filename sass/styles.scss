@@ -1,4 +1,4 @@
-@charset "UTF-8";
+
 * {
   padding: 0;
   margin: 0;
@@ -17,6 +17,7 @@ body::-webkit-scrollbar {
 body::-webkit-scrollbar-thumb {
   border-radius: 10px;
   border-right: 10px solid #0341b6;
+  
 }
 
 body {
